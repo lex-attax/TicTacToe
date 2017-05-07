@@ -83,5 +83,3 @@ public class TicTacToeApplication {
 	}
 
 }
-
-// https://youtu.be/edg25CkMtOc?t=1915
