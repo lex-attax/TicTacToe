@@ -33,7 +33,7 @@ public class TicTacToe {
 		return isValid;
 	}
 	
-	// Check if out spot is in range
+	// Check if our spot is in range
 	public boolean withinRange(int number) {
 		return number > 0 && number < board.length + 1;
 		
